@@ -1,2 +1,2 @@
-# DeepLearning-
+# DeepLearning
 Learning Tutorials for Deep Learning
